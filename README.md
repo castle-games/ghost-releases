@@ -1,6 +1,6 @@
 # ghost-player
 
-A simple tool designed for developing and loading lua projects. You can download the binarys in this repository.
+A simple tool designed for developing and loading lua projects. You can download the binaries in this repository.
 
 ## features
 
